@@ -13,8 +13,12 @@ Run:
 ### Questions
 
 1.  How many users exist on the system?
+36 users exist on the system.
 2.  Which accounts appear to be system accounts?
+siliconsquad appears to be system account.
 3.  Why do operating systems create system accounts?
+To allow different system services and programs to run safely without using the main adminstrator account.
+
 
 ### Reflection
 
